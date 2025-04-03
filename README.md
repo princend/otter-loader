@@ -1,4 +1,3 @@
-# React官方練習
+# Otter Loader
 
-## 筆記
-[HackMD](https://hackmd.io/@Princendwang/r1NgaP3jyx)
+it's for otter lover!!!
