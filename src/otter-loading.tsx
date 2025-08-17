@@ -4,7 +4,7 @@ import './otter-loading.scss';
 export function OtterLoading(): JSX.Element {
     return (
         <>
-            <h1 className="intro">otter loader</h1>
+            
             <div className="box">
                 <div className="otter">
                     <div className="otter__body"></div>
